@@ -1,6 +1,6 @@
-#Hackintosh Ryzen OpenCore
+# Hackintosh Ryzen OpenCore
 ## B450-F-GAMING
-###Part list
+### Part list
 * Processor: AMD Ryzen 5 2600
 * Motherboard: ASUS B450-F Gaming
 * GPU: Radeon RX 580
