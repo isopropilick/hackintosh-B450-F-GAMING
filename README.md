@@ -1,1 +1,1 @@
-# hackintosh-B450-F-GAMING-
+# hackintosh-B450-F-GAMING
