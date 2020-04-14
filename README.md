@@ -10,3 +10,5 @@
 * HDD1: Segate IronWolf 12 TB
 * HDD2: Segate IronWolf 12 TB
 * Display: HP 24x
+
+If you have any inquiry about this repo no doubt to drop me a message on Telegram: @isopropilick1
